@@ -1,0 +1,3 @@
+const Config = {
+  VAPID_PUBLIC: 'BCM0-hqRbylw4W6gGIZQWLMekjW1SViB6uG5pRa1xSMFC3_7gGbwCD-WhoAh1EeTIv5DEEtaPkF98uf33TlxXPA'
+};
